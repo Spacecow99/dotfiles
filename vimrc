@@ -19,6 +19,7 @@ Plugin 'mkitt/tabline.vim'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'preservim/nerdtree'
 Plugin 'cespare/vim-toml'
+Plugin 'rust-lang/rust.vim'
 
 Bundle 'jistr/vim-nerdtree-tabs'
 
